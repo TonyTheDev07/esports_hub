@@ -15,9 +15,9 @@ client.on('ready', () => {
 
 client.on('message', message => {
 
-    if (message.content === 'ping') {
+    if (message.content === 'Hey!') {
 
-       message.reply('pong');
+       message.reply('Teri Maa Ki Chut');
 
        }
 
